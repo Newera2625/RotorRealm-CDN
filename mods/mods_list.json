@@ -1,0 +1,1163 @@
+{
+  "version": "1.1.15",
+  "files": [
+    {
+      "name": "ArmorStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "ea74e8434f23b618d3298afda8cad1ccb76f0a94",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ArmorStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "AsyncParticles-21.1.0b-beta.2+1.21.1.jar",
+      "sha1": "6b5ac26391c0e6f6e49f9a800e44f355f6281fa8",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/AsyncParticles-21.1.0b-beta.2%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "AxesAreWeapons-1.10.2-neoforge-1.21.jar",
+      "sha1": "8c2ea92279ccc6bfed5288854e7b6d568bd84160",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/AxesAreWeapons-1.10.2-neoforge-1.21.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "BadOptimizations-2.4.1-1.21.1.jar",
+      "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "CarryOnAeroCompat-1.21.1-1.1.1.jar",
+      "sha1": "fe5f43783baadf3d954493ccf7a0688ede794f1e",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/CarryOnAeroCompat-1.21.1-1.1.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Companion-1.21.1-NeoForge-6.2.1.jar",
+      "sha1": "2e0f5178baabab6534cbf8159ab000ccbfbbd631",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Companion-1.21.1-NeoForge-6.2.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+      "sha1": "64c6ae1cb0cb37b976bbd0afb2551beae61bcdaa",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ConnectorExtras-1.12.1+1.21.1.jar",
+      "sha1": "8ea07df55b26c8343d06df77936505a23e0d2140",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ConnectorExtras-1.12.1%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Create Components and Additions 2.3.jar",
+      "sha1": "70ae0f497c282a5a2392596004be9afd1c25297d",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Create%20Components%20and%20Additions%202.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "CreateDragonsPlus-1.11.2b.jar",
+      "sha1": "c0427a7f657f583694e485186621bdeda16ca8dd",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/CreateDragonsPlus-1.11.2b.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "CutThrough-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "550f272c140566f0961c1bb3fdfb1a6272be30dd",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/CutThrough-v21.1.0-1.21.1-NeoForge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "DetailArmorBarReconstructed-5.0.1+1.21.1-neoforge.jar",
+      "sha1": "f6bf7f8f2142405beaad58b9cf57aad1ccf8eb04",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/DetailArmorBarReconstructed-5.0.1%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Ding-1.21-NeoForge-1.5.0.jar",
+      "sha1": "67be6a0f10b3fcd98ead58770e00636eb677389a",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Ding-1.21-NeoForge-1.5.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "376c02e44dfcb44b79a494b1dba87b2ffb24277f",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "FarmersDelight-1.21.1-1.3.2.jar",
+      "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "sha1": "96d8f1df0f08e169396b603c42cf997e9081de59",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Ixeris-4.4.4+1.21.1-neoforge.jar",
+      "sha1": "d63e2b91d4c47882ee8cf0bb3ab601b2612bb473",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Ixeris-4.4.4%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Kerria-1.3.0+1.21.1-neoforge.jar",
+      "sha1": "32e8331c7c5e182fd7478f02452d4fde2288c490",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Kerria-1.3.0%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Kiwi-1.21.1-NeoForge-15.8.4.jar",
+      "sha1": "6bbbf8c03a896b13f9d1b71b4d7261904637c7ef",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Kiwi-1.21.1-NeoForge-15.8.4.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "KotlinLangForge-2.14.1-k2.4.20-3.0+neoforge.jar",
+      "sha1": "1a68ab7829e03b2f9ef59d4d2d58ac4c5be74ffc",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/KotlinLangForge-2.14.1-k2.4.20-3.0%2Bneoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "MyNethersDelight-1.21.1-1.10.2.jar",
+      "sha1": "d2fb0de59b66a017a1a25f23acdbe6e241b08541",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/MyNethersDelight-1.21.1-1.10.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "sha1": "e0c36cd85d3d31cc2afb1bfc6b885f505245252f",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ParticleEffects-1.4.0+1.21.1+neoforge.jar",
+      "sha1": "07924ea45d4dbf90d9d8d16b597af2aaf991a54b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ParticleEffects-1.4.0%2B1.21.1%2Bneoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+      "sha1": "bfc416a7bc2edde6ff98672a7df43a3d9930a396",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+      "sha1": "035de52d3eb18ceeca4e4e63516af873c0975060",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Quark-4.1-480.jar",
+      "sha1": "a17e252b74b28045602478cb3ada804239c15c2c",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Quark-4.1-480.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Resourcify (1.21.1-neoforge)-1.8.3.jar",
+      "sha1": "4e8c7b73828e9f464e1ea4dada99c3ca761a0f48",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Resourcify%20%281.21.1-neoforge%29-1.8.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "SmartBlockPlacement-2.0.jar",
+      "sha1": "558df4ed3290da12c51ad1dd1e06978f0d36d979",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/SmartBlockPlacement-2.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Updating World Icon-neoforge-1.21.1-1.0.1.jar",
+      "sha1": "e90ca730151365b1a286759e7824eac6a7536d08",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Updating%20World%20Icon-neoforge-1.21.1-1.0.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "sha1": "90529257dbd92558998c65178294bc7b2fd16a64",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "sha1": "4061ece2141475227646649046fc14c2da505922",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "sha1": "fba629defdb92ad99ec4f411895afb6e19555a18",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "sha1": "5d06a5850af7c577612d4592706a8e156bbe1cbf",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "62833733aaf407f36bdacf648ed4b2ef9940662b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "Zeta-1.1-40.jar",
+      "sha1": "72f6efe421cfc0547c774ae8241d727b7d996754",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/Zeta-1.1-40.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[GD656击杀图标] gd656killicon-1.1.0.020-1.21.1-neoforge.jar",
+      "sha1": "d654fefdf4cdf699093b013f8428d54ee886470b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5BGD656%E5%87%BB%E6%9D%80%E5%9B%BE%E6%A0%87%5D%20gd656killicon-1.1.0.020-1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[Lambd的动态光源] lambdynamiclights-4.8.11+1.21.1.jar",
+      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5BLambd%E7%9A%84%E5%8A%A8%E6%80%81%E5%85%89%E6%BA%90%5D%20lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[Xaero的小地图] xaerominimap-neoforge-1.21.1-26.5.0.jar",
+      "sha1": "7553dddbe478d1c8c15198090217e723d27f79c4",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5BXaero%E7%9A%84%E5%B0%8F%E5%9C%B0%E5%9B%BE%5D%20xaerominimap-neoforge-1.21.1-26.5.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "sha1": "b09d7c0820c233ea34af54d0a3ab7ed510b32dcc",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E4%B8%80%E9%94%AE%E8%83%8C%E5%8C%85%E6%95%B4%E7%90%86Next%5D%20InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[三角洲乐事] delta_delight-1.3.926_neoforge_1.21.1.jar",
+      "sha1": "fb7d826ef20ea803bb3c9851177a8a161016e544",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E4%B8%89%E8%A7%92%E6%B4%B2%E4%B9%90%E4%BA%8B%5D%20delta_delight-1.3.926_neoforge_1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[传送石碑／指路石] waystones-neoforge-1.21.1-21.1.46.jar",
+      "sha1": "75718161662d9ec957ba22e10e497788ec1687ba",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E4%BC%A0%E9%80%81%E7%9F%B3%E7%A2%91%EF%BC%8F%E6%8C%87%E8%B7%AF%E7%9F%B3%5D%20waystones-neoforge-1.21.1-21.1.46.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[农夫乐事] FarmersDelight-1.21.1-1.3.4.jar",
+      "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E5%86%9C%E5%A4%AB%E4%B9%90%E4%BA%8B%5D%20FarmersDelight-1.21.1-1.3.4.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[卓越前线] superbwarfare-0.8.9.1-final-mc1.21.1-5b92ebe1.jar",
+      "sha1": "543fe1e639969ef0717250c5122ad57bdbdc817b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E5%8D%93%E8%B6%8A%E5%89%8D%E7%BA%BF%5D%20superbwarfare-0.8.9.1-final-mc1.21.1-5b92ebe1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[属性修复] attributefix-neoforge-1.21.1-21.1.3.jar",
+      "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E5%B1%9E%E6%80%A7%E4%BF%AE%E5%A4%8D%5D%20attributefix-neoforge-1.21.1-21.1.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[更好的村庄] bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "sha1": "6ad2a37bfea056ce924c62fea6e0a583723e7f4c",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9D%91%E5%BA%84%5D%20bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[机械动力：乡村结构] create_rustic_structures-1.0.1-neoforge-1.21.1.jar",
+      "sha1": "f8f8dea6a23f697c3f27196627bdf77d9147b8e4",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E6%9C%BA%E6%A2%B0%E5%8A%A8%E5%8A%9B%EF%BC%9A%E4%B9%A1%E6%9D%91%E7%BB%93%E6%9E%84%5D%20create_rustic_structures-1.0.1-neoforge-1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[沉浸式奏乐] immersive_melodies-neoforge-0.8.0+1.21.1.jar",
+      "sha1": "5f3cd9eb07465a88a22abc6230862e798f45ef82",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%A5%8F%E4%B9%90%5D%20immersive_melodies-neoforge-0.8.0%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[沉浸式家具] immersive_furniture-neoforge-0.3.3+1.21.1.jar",
+      "sha1": "cd595ea729f0b55a09568c2ebcdb1ad2d6c16c53",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%AE%B6%E5%85%B7%5D%20immersive_furniture-neoforge-0.3.3%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[沉浸式盔甲] immersive_armors-1.7.6+1.21.1-neoforge.jar",
+      "sha1": "4c5762af46c0beac0830d1f1e9c88332b120ceaa",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%9B%94%E7%94%B2%5D%20immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[沉浸式飞机] immersive_aircraft-1.5.2+1.21.1-neoforge.jar",
+      "sha1": "6f7dded9292e8bd32feb24082aad2987c72af908",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%A3%9E%E6%9C%BA%5D%20immersive_aircraft-1.5.2%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[终极汽车] car-neoforge-1.21.1-1.0.46.jar",
+      "sha1": "30e776a63e46a48d2b3cc9f850db0fce4ebf3911",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E7%BB%88%E6%9E%81%E6%B1%BD%E8%BD%A6%5D%20car-neoforge-1.21.1-1.0.46.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[聊天动画] chatanimation-neoforge-1.3.3+mc1.21.jar",
+      "sha1": "a01d93d8effc5f00aae6802e549f5a595eac02f7",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E8%81%8A%E5%A4%A9%E5%8A%A8%E7%94%BB%5D%20chatanimation-neoforge-1.3.3%2Bmc1.21.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "[聊天头像] chat_heads-0.15.7-neoforge-1.21.jar",
+      "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/%5B%E8%81%8A%E5%A4%A9%E5%A4%B4%E5%83%8F%5D%20chat_heads-0.15.7-neoforge-1.21.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "adastra-1.21.1-1.16.26-neoforge.jar",
+      "sha1": "b6c4560cc625a6847e016af576954ff1f0431d99",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/adastra-1.21.1-1.16.26-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "aeroencasedpipe-1.0.7.jar",
+      "sha1": "94012ef7cb564267caa91e29a63d48c32be0b341",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/aeroencasedpipe-1.0.7.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "aileron-1.21.1-neoforge-1.1.4.jar",
+      "sha1": "9fe97b808ccac3289644fc55ad364475434dfb2f",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/aileron-1.21.1-neoforge-1.1.4.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "alfinolib-1.2.0-neoforge-1.21.1.jar",
+      "sha1": "534ec2d4319f7aed36809e60430b501f7451ac39",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/alfinolib-1.2.0-neoforge-1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "alloyed-3.0.9+1.21.1-neoforge.jar",
+      "sha1": "a196057e9c086e0303ec91c58362050bf9fc52da",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/alloyed-3.0.9%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "amendments-1.21-2.0.15-neoforge.jar",
+      "sha1": "00056f29646f3bf86116b281c2362c0dabdb4533",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/amendments-1.21-2.0.15-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "another_furniture-neoforge-4.0.2.jar",
+      "sha1": "9036bc4754f74287f94fbf0102ea0d47d394877d",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/another_furniture-neoforge-4.0.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "architectury-13.0.8-neoforge.jar",
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/architectury-13.0.8-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "asynclogger-1.1.4+1.21.1-neoforge.jar",
+      "sha1": "b89a6aea55b79791f2d190f775cd3fda945a5f84",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/asynclogger-1.1.4%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ballastmod-0.1.0.jar",
+      "sha1": "1c3ff5cf24ed26aa655f1ffc4a91763ee89504bf",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ballastmod-0.1.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "balm-neoforge-1.21.1-21.0.58.jar",
+      "sha1": "47b6dbe51693d5a2b3eac15c6322f357de365f15",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/balm-neoforge-1.21.1-21.0.58.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "balm-neoforge-1.21.1-21.0.66.jar",
+      "sha1": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/balm-neoforge-1.21.1-21.0.66.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "bellsandwhistles-0.4.7-1.21.1.jar",
+      "sha1": "85944080f8bd47dad64a8193a70662cd9ddbb200",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/bellsandwhistles-0.4.7-1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "betterbiomeblend-1.5.2.jar",
+      "sha1": "c6528c9760ecfd2987484aabe54c3d26e931e3a7",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/betterbiomeblend-1.5.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "bits_n_bobs-0.0.44.jar",
+      "sha1": "2d577eb7e47b860fc32e4ebd33405715252c5072",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/bits_n_bobs-0.0.44.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "brick_and_mortar-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "52187c0293d0a106c70bf96ae89a612941dd47f6",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/brick_and_mortar-neoforge-1.21.1-1.1.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "butter_model_toolkit-1.0-SNAPSHOT.jar",
+      "sha1": "614db84f970963fc58873a0d5d1ac8dca6f251d0",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/butter_model_toolkit-1.0-SNAPSHOT.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
+      "sha1": "942a6d51d4c475117418a6a36b46833a8128fbc7",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.93.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "sha1": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/caelus-neoforge-7.0.1%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "sha1": "774bf57a199784c35e74f2d619d6001c87185a11",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "cerulean-neoforge-1.0.0-1.21.1.jar",
+      "sha1": "f810a8ab7efd707500da4f153a5a64843edf4aac",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/cerulean-neoforge-1.0.0-1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "chat_heads-0.15.2-neoforge-1.21.jar",
+      "sha1": "86abc08fbfa8eb3e2a41aa4403a6bd52543ea665",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/chat_heads-0.15.2-neoforge-1.21.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/cloth-config-15.0.140-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "common-storage-lib-neoforge-1.21.1-0.0.10.jar",
+      "sha1": "e0ba85038480d50a3816d5920014bfcccdbe7329",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/common-storage-lib-neoforge-1.21.1-0.0.10.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "connectiblechains-neoforge-1.21.1-2.1.0.jar",
+      "sha1": "afcd6e2e0ee9ad396de2a056fa16d4f156afe565",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/connectiblechains-neoforge-1.21.1-2.1.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "connector-2.0.0-beta.14+1.21.1-full.jar",
+      "sha1": "930067497b5c1249e51b3e33620ab4e72dc92f4c",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/connector-2.0.0-beta.14%2B1.21.1-full.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "continuity-3.0.0+1.21.neoforge.jar",
+      "sha1": "0aecd2d043ac25299254623fafdd9129ab2ba9c2",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/continuity-3.0.0%2B1.21.neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "sha1": "b044c51d00d60b5645a0c0890812935cd933555f",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "create-1.21.1-6.0.10.jar",
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/create-1.21.1-6.0.10.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "sha1": "a2b08963ebc9f331f52c626aebcd65013e100d69",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "create-cardboarded-conveynience-1.21.1-neoforge-1.0.0.jar",
+      "sha1": "256fe6ac5d936ef68b8edfe8298fcb5a9d2f32fc",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/create-cardboarded-conveynience-1.21.1-neoforge-1.0.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "create-enchantment-industry-2.4.2.jar",
+      "sha1": "4ad5c181c805a548e15892500b07c0c0f88f0734",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/create-enchantment-industry-2.4.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "create-extended-wrenches-1.21.1-2.0.2.jar",
+      "sha1": "fbb77bc688c8ec0d9d2bccb6e6e31b0b8600a927",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/create-extended-wrenches-1.21.1-2.0.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "create-shufflefilter-2.1.0-neo.jar",
+      "sha1": "b3620760a9629efbc924c808c9bb68405f982650",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/create-shufflefilter-2.1.0-neo.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "create_factory-0.7a-1.21.1.jar",
+      "sha1": "e01ca3c74453165c6914e3c655969543aaad0063",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/create_factory-0.7a-1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "create_pattern_schematics-2.0.10.jar",
+      "sha1": "e3dea574c3b3d590444796a42e8f7456280b1063",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/create_pattern_schematics-2.0.10.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "createbigcannons-5.11.6+mc.1.21.1.jar",
+      "sha1": "b209fe9879b27e74b742db9127a1b88d49323abe",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/createbigcannons-5.11.6%2Bmc.1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "createframed-1.21.1-1.7.3.jar",
+      "sha1": "fc4081b062cdbd84f89cefdaa7cdf0806001630a",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/createframed-1.21.1-1.7.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "createprism-1.2.2.jar",
+      "sha1": "2c911b9b9abaac0572f0935ccfc9ae91c02eb4c7",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/createprism-1.2.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "distractingtrims-neoforge-1.21.1-21.1.1.jar",
+      "sha1": "64af034e2d9b114bd4051831e42d5b214f34336b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/distractingtrims-neoforge-1.21.1-21.1.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "e4mc-neoforge-6.1.2.jar",
+      "sha1": "1146ae355c716fbcd60bee90f2c3b2db129612c4",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/e4mc-neoforge-6.1.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "eatinganimation-1.21.0-6.0.1.jar",
+      "sha1": "68f276dc8cf57658b0afc2112c6ee63325989e02",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/eatinganimation-1.21.0-6.0.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ecologics-1.21.1-2.3.6.jar",
+      "sha1": "4b0588f0abb229b74dc9fef145487c6912a389e4",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ecologics-1.21.1-2.3.6.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "eg-inventory-blur-1.0.1.jar",
+      "sha1": "963375177fc0c191446b89cf5785c42067785baf",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/eg-inventory-blur-1.0.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "emi-1.1.24+1.21.1+neoforge.jar",
+      "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "emi_loot-0.7.9+1.21+neoforge.jar",
+      "sha1": "bd0326eeda721c87a29efd78f9a52f46d572392c",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/emi_loot-0.7.9%2B1.21%2Bneoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "emixx-neoforge-2.2.0.jar",
+      "sha1": "60339a86dd57813b2a3b6d37150d8f7f00d24c9e",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/emixx-neoforge-2.2.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ends_delight-2.6+neoforge.1.21.1.jar",
+      "sha1": "be12ea8ec050d47e1774392354cd363ca4ed60fe",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ends_delight-2.6%2Bneoforge.1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "entity_model_features-3.2.4-1.21-neoforge.jar",
+      "sha1": "fcc0d7cfee5ace4dba159225edd151d90dd924b9",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "entity_texture_features_1.21-neoforge-7.1.jar",
+      "sha1": "56de40b237ff44dbf1bb68844e0f118607902684",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/entity_texture_features_1.21-neoforge-7.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "sha1": "6c6f885e0359c2b0601cbec76fda406caeb49cca",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "sha1": "fee0be3ffe494189733ceaeb7163a38b03098ea5",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "fastpaintings-1.21-1.3.0-neoforge.jar",
+      "sha1": "6df81c4fe659eaee718cb0856c79e4cfa272e9ea",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/fastpaintings-1.21-1.3.0-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ferritecore-7.0.3-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "flerovium-neoforge-1.21.1-1.0.18-all.jar",
+      "sha1": "3d7890fa10d71a2dff2a25b19a9bc259261989e0",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/flerovium-neoforge-1.21.1-1.0.18-all.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "sha1": "459b5f4c7297b2f7649d43137f3e5a069b69b707",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "gml-6.0.2.jar",
+      "sha1": "29a8153c54b9b03a3b4b42be7d77fe4ac2459720",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/gml-6.0.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "sha1": "1f161c8b6288e6094fc57f4a9c10a6050df71081",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "irons_lib-1.21.1-2.2.0.jar",
+      "sha1": "33ca1a58dc0b384a6de26171f34b3bf608aaeeb2",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/irons_lib-1.21.1-2.2.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "irons_spellbooks-1.21.1-3.16.3.jar",
+      "sha1": "017fd8140c477f9ae602cf95594f1c23bef1d6e3",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/irons_spellbooks-1.21.1-3.16.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "kotlinforforge-5.11.0-all.jar",
+      "sha1": "4d83e8a8e8cb06b306d2cea1e903680fe513f1f3",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/kotlinforforge-5.11.0-all.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "kotlinforforge-5.12.0-all.jar",
+      "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/kotlinforforge-5.12.0-all.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "lambdynamiclights-4.8.8+1.21.1.jar",
+      "sha1": "d0ab30eebffdb999c07964c5775b199792b5cf46",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/lambdynamiclights-4.8.8%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "libIPN-neoforge-1.21.1-6.6.3.jar",
+      "sha1": "baab9e8cae3d2b77b5e172b5694e465ee9f30d4a",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "sha1": "9f750661168a599bdd7b2928e6588768d6105bfe",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "sha1": "9fd5fa9076044180ae7f51672de74669196ec72e",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "lodestone-1.21.1-1.8.2.jar",
+      "sha1": "d1f7c638fac5192e01b1873f27e694a3c262ad11",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/lodestone-1.21.1-1.8.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "sha1": "a8acaf64fb3991526bfe7456189ccde247334265",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "map_atlases-neoforge-1.21-6.6.0.jar",
+      "sha1": "aa0e70893e0f02eb3555ba9017d2edfa5527ffff",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/map_atlases-neoforge-1.21-6.6.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "minersdelight-1.21.1-1.4.5.jar",
+      "sha1": "9361a43c3b2cfeda977d34a28e25a6e089465dcc",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/minersdelight-1.21.1-1.4.5.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "minopp-1.4.0+1.21.1+neoforge.jar",
+      "sha1": "ed43130754d36fa94dca6fea1e43d5ab039ae8cf",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/minopp-1.4.0%2B1.21.1%2Bneoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "modelfix-1.21-1.10.jar",
+      "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/modelfix-1.21-1.10.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "modernfix-neoforge-5.27.12+mc1.21.1.jar",
+      "sha1": "eb7a14dd6024d694d56d38297be208cf3d91f1a9",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/modernfix-neoforge-5.27.12%2Bmc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "moonlight-neoforge-1.21.1-3.0.17.jar",
+      "sha1": "fb9ff01231bc99aee1769b06a4b2987e6a6a518b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/moonlight-neoforge-1.21.1-3.0.17.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "more_sounds-1.21.x-0.3.0-beta.jar",
+      "sha1": "e2b6dd9efb491f54a1fa38002457b53e43f9dd8c",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/more_sounds-1.21.x-0.3.0-beta.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "moreculling-neoforge-1.21.1-1.0.8.jar",
+      "sha1": "fdbfaa5d6d93a11d44020301199dac68de231649",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/moreculling-neoforge-1.21.1-1.0.8.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "neobeefix-1.21.1-2.0.1.jar",
+      "sha1": "76e263df40ebdd039e7754eda73e2fedcea1947c",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/neobeefix-1.21.1-2.0.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "netherite_horse_armor-neoforge-1.21.1-2.0a.jar",
+      "sha1": "0bd2749b22887192fb096ff5e83f96f0180893a8",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/netherite_horse_armor-neoforge-1.21.1-2.0a.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "sha1": "9f1ba483216aebce1ee6185601231158684f5de8",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+      "sha1": "52c76391aea709441089b12dbf3664b848b686d7",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "pointblank-neoforge-1.21-2.2.0.jar",
+      "sha1": "82a71bb8c1a9f7fd706fa379db93754e16242936",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/pointblank-neoforge-1.21-2.2.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "polytone-neoforge-1.21-3.7.1.jar",
+      "sha1": "2143ff62c0855bc4fd3bdb3b98bab9c6671e621c",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/polytone-neoforge-1.21-3.7.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "potionstacks-1.0.0.jar",
+      "sha1": "d6796879150f7e957dec085d9b4991feca104a87",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/potionstacks-1.0.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "progresspeek-1.0.1+1.21.1-neoforge.jar",
+      "sha1": "23d22db5e473e34ecf56ccd32f76f22bd4774082",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/progresspeek-1.0.1%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "quick-pack-neoforge-1.3.2+1.21.8.jar",
+      "sha1": "ab5b3a0b0b02005f0a92966a9df59f18fae870e0",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/quick-pack-neoforge-1.3.2%2B1.21.8.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "railways-0.2.1+neoforge-mc1.21.1.jar",
+      "sha1": "f2d71927ef504b597a6c992d02118c1e6ee6e369",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/railways-0.2.1%2Bneoforge-mc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar",
+      "sha1": "9869222c022c73362ab22ea559f52c19dabf0467",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/reeses-sodium-options-neoforge-2.0.5%2Bmc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "reliable_advancements-neoforge-1.21.1-4.0.0.jar",
+      "sha1": "048d590840a19892696f6770379c4a58b1eb3c09",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/reliable_advancements-neoforge-1.21.1-4.0.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "rotorrealm-sso-1.0.0.jar",
+      "sha1": "f5b2dd295777cc670e562a8ed9ae89c8e4424820",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/rotorrealm-sso-1.0.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sable-neoforge-1.21.1-2.0.1.jar",
+      "sha1": "1206068f3fba44d2df87509ddc3921b10379f8b5",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sable-neoforge-1.21.1-2.0.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sablebeyond-neoforge-1.21.1-v0.4.1.jar",
+      "sha1": "8dca8cace4755539a712f8d02c9f6487c745a014",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sablebeyond-neoforge-1.21.1-v0.4.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sablephysicscompat-1.3.0.jar",
+      "sha1": "ca5753e923c501acf43ff0d2fcf09f32240504c3",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sablephysicscompat-1.3.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "scholar-neoforge-1.21.1-1.1.16.jar",
+      "sha1": "10755b911c58d5555ea3da76e52338b210629017",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/scholar-neoforge-1.21.1-1.1.16.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "seamlesssleep-neoforge-1.21-2.5.3.jar",
+      "sha1": "dd0ef36c9288e7e91edcb50e12968b5322db8e23",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/seamlesssleep-neoforge-1.21-2.5.3.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sliceanddice-forge-4.2.4.jar",
+      "sha1": "13d8835813b3851d4818c59ec8f7124e4a826c14",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sliceanddice-forge-4.2.4.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "smart_bounds-1.0.0.jar",
+      "sha1": "9d271d70b1d2870d5c232e71e2923abaac3a6767",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/smart_bounds-1.0.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "sha1": "49e58b648cfe1e5d6623b1b2c3ce5aca0b8c08df",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "sha1": "00338f16b360d6b24b53fc8f92b76256729aee75",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sodium-extra-neoforge-0.8.7+mc1.21.1.jar",
+      "sha1": "5f17ccb47f77d498c36d3179c8ca3f320a7f50e3",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sodium-extra-neoforge-0.8.7%2Bmc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
+      "sha1": "5f24c8cf07e40581210c020b54106e175f793e85",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sodium-neoforge-0.8.12-beta.1%2Bmc1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sophisticatedbackpacks-1.21.1-3.25.63.1912.jar",
+      "sha1": "fcafdc6e8447aca21df93b78e7b0533fcc8ab06b",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sophisticatedbackpacks-1.21.1-3.25.63.1912.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.4.58.2026.jar",
+      "sha1": "16bf2fac6e3f1d3a43a4e0ed8112f7768c37d4a5",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sophisticatedcore-1.21.1-1.4.58.2026.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "sha1": "cbfa42a31515e1bac4bafcdd974fbba29b7d106a",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "statuseffectbars-1.21.1-NeoForge-1.0.2.jar",
+      "sha1": "bc2d624a831126bb00032d53ca0211d026e95682",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/statuseffectbars-1.21.1-NeoForge-1.0.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "structure_layout_optimizer-neoforge-1.0.12.jar",
+      "sha1": "052c31cb9881c04c17d949345539aa8684f474bf",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/structure_layout_optimizer-neoforge-1.0.12.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "supplementaries-neoforge-1.21.1-3.6.8.jar",
+      "sha1": "f5198ba89731d1ff3c019506dc7ca867250dbe32",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/supplementaries-neoforge-1.21.1-3.6.8.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "toomanyrecipeviewers-0.8.1+mc.21.1.jar",
+      "sha1": "4f349431752b0881f900a52475de494de5d83f53",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/toomanyrecipeviewers-0.8.1%2Bmc.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "trashslot-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "ce09d0128e6a7d225e731e1307f9c1deddac209a",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "sha1": "17b1bbb96e922e683a1807a2e7bece603fdc491d",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/txnilib-neoforge-1.0.24-1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "veinminer-client-neoforge-2.11.2+1.21.1.jar",
+      "sha1": "d2abcd4e525bece98f6202b258a1960d9a8cac8a",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/veinminer-client-neoforge-2.11.2%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "veinminer-neoforge-2.11.2+1.21.1.jar",
+      "sha1": "19f67a98cf5e7cfeefb089b5ec31450ac6d5bd53",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/veinminer-neoforge-2.11.2%2B1.21.1.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "sha1": "c9e638f5c049fc143dc043c585b13e9078a3f71d",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "yeetusexperimentus-neoforge-87.0.0.jar",
+      "sha1": "7132c346103d75a7c84da64b35b92e3a6f1ce3da",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/yeetusexperimentus-neoforge-87.0.0.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ysm-2.6.5-neoforge+mc1.21.1-release.jar",
+      "sha1": "18bec74a5b7f3778ce162ddbbbd5555aff0eda2e",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ysm-2.6.5-neoforge%2Bmc1.21.1-release.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "ywzj_vehicle-1.21.1-0.5.10.jar",
+      "sha1": "94c05522ecfa53fa8b8d934a70ae115ac8c808dc",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/ywzj_vehicle-1.21.1-0.5.10.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "zfastnoise-1.0.11+2+1.21.1+neoforge.jar",
+      "sha1": "dae85b11027bf996069a871c5fd08630b53c2db0",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/zfastnoise-1.0.11%2B2%2B1.21.1%2Bneoforge.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "zume-1.2.2.jar",
+      "sha1": "cbd353ee0e2a35d122a758b9cbb26b2f54145f3f",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/zume-1.2.2.jar",
+      "upload_time": "2026-10-04 11:30:00"
+    },
+    {
+      "name": "rrm-chat-1.0.0.jar",
+      "sha1": "2bfcf312ffaa341e53a35ccb01823fd755eab136",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/rrm-chat-1.0.0.jar",
+      "upload_time": "2026-10-04 16:05:40"
+    }
+  ]
+}
