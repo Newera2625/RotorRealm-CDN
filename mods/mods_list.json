@@ -1158,6 +1158,12 @@
       "sha1": "2bfcf312ffaa341e53a35ccb01823fd755eab136",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/rrm-chat-1.0.0.jar",
       "upload_time": "2026-10-04 16:05:40"
+    },
+    {
+      "name": "CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar",
+      "sha1": "5cd4817442ae95f886a2d31534166e9883ed4bb2",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Newera2625/RotorRealm-CDN/main/mods/CreateNumismatics-1.1.0%2Bneoforge-mc1.21.1.jar",
+      "upload_time": "2026-10-05 14:18:37"
     }
   ]
 }
